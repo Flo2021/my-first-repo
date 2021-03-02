@@ -1,2 +1,2 @@
 # **Hi** :sparkles: :sparkles:
-![cat.png](/my-first-repo/cat.png)
+![cat.png](https://github.com/Flo2021/my-first-repo/blob/master/cat.png)
