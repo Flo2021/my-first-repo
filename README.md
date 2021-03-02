@@ -1,2 +1,2 @@
 # **Hi** :sparkles: :sparkles:
-!(cat.png)
+![cat.png](/my-first-repo/cat.png)
